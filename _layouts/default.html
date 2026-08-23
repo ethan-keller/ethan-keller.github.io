@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {%- include head.html -%}
+</head>
+<body>
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>© {{ 'now' | date: "%Y" }} {{ site.author }}</footer>
+</body>
+</html>
