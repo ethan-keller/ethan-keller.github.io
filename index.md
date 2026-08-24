@@ -37,7 +37,7 @@ After graduating, I joined the [Brain &amp; Behaviour Lab](https://faisallab.org
   <span>2019 - 2022</span>
   <img src="/assets/img/logos/tudelft.png" alt="">
   <div markdown="1">
-BSc Computer Science and Engineering. My thesis focused on synthetic tabular data generation ([FCT-GAN](https://repository.tudelft.nl/record/uuid:4660ac7d-9abc-424c-8c66-070324f93d8e)). I was head teaching assistant and taught 1000+ students in machine learning, data mining and programming courses.
+BSc Computer Science and Engineering at the [Delft University of Technology](https://www.tudelft.nl/en/). My thesis focused on synthetic tabular data generation ([FCT-GAN](https://repository.tudelft.nl/record/uuid:4660ac7d-9abc-424c-8c66-070324f93d8e)). I was head teaching assistant and taught 1000+ students in machine learning, data mining and programming courses.
 
 Along the way I completed 2 internships. First at [Jetbrains Research](https://www.jetbrains.com/research/) (2021) researching lightweight messaging systems for robotics and IoT devices, and later at [Amazon](https://read.amazon.com/) (2022) building web-based reading products in the Kindle team.
   </div>
