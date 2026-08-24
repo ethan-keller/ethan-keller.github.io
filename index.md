@@ -41,6 +41,13 @@ Along the way I completed 2 internships. First at [Jetbrains Research](https://w
   </div>
 </div>
 
+## Languages
+
+<dl class="levels">
+  <dt>Proficient</dt><dd>English, French, Dutch</dd>
+  <dt>Intermediate</dt><dd>Hebrew, Spanish, German</dd>
+</dl>
+
 <script>
 mail.onclick = function (e) {
   e.preventDefault();
