@@ -15,7 +15,9 @@ layout: default
   </div>
 </div>
 
-I'm an AI scientist at **Amazon AGI**.
+I'm an AI researcher at [Amazon AGI](https://www.amazon.science/) where I focus on LLMs for speech generation. Before that, I worked on reinforcement learning and federated learning at [Imperial College London](https://www.imperial.ac.uk/) for sepsis treatment prediction.
+
+My research interests include synthetic data, post-training, multimodality, interpretability, and automated research.
 
 ## Journey
 
