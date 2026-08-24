@@ -48,6 +48,10 @@ Along the way I completed 2 internships. First at [Jetbrains Research](https://w
   <dt>Intermediate</dt><dd>Hebrew, Spanish, German</dd>
 </dl>
 
+## Personal
+
+Besides research, I like going to the gym, swimming, playing tennis and hanging out with friends. I also enjoy exploring topics in medicine and health or philosophizing about concepts like superintelligence, psychological biases, determinism or self-improvement (obviously without ever reaching a conclusion).
+
 <script>
 mail.onclick = function (e) {
   e.preventDefault();
