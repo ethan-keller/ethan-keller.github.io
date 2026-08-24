@@ -20,7 +20,7 @@ body {
 }
 
 a { color: var(--accent); }
-a[target="_blank"]::after { content: " \2197"; font-size: 0.75em; }
+a[href^="http"]::after { content: " \2197"; font-size: 0.75em; }
 
 h2 {
   margin-top: 3rem;
@@ -36,14 +36,14 @@ h2 {
   margin-bottom: 2rem;
 }
 .intro img {
+  flex: none;
   width: 10rem;
   height: 10rem;
-  flex: none;
   border-radius: 50%;
   object-fit: cover;
 }
 .intro h1 { margin: 0; font-size: 1.75rem; line-height: 1.2; }
-.intro .links {
+.intro p {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem 1rem;
@@ -56,21 +56,20 @@ h2 {
   grid-template-columns: auto auto 1fr;
   gap: 1.5rem 1rem;
 }
-.journey .year {
+.journey > span {
   grid-column: 1;
   margin-top: 0.2rem;
   white-space: nowrap;
   color: var(--muted);
   font-size: 1rem;
 }
-.journey .logo {
+.journey > img {
   grid-column: 2;
   width: 2.25rem;
   height: 2.25rem;
   margin-top: 0.2rem;
-  object-fit: contain;
 }
-.journey .body { grid-column: 3; }
+.journey > div { grid-column: 3; }
 .journey p:first-child { margin-top: 0; }
 .journey p:last-child { margin-bottom: 0; }
 
@@ -95,7 +94,7 @@ footer {
   .intro img { width: 7rem; height: 7rem; }
 
   .journey { grid-template-columns: auto 1fr; row-gap: 0.5rem; }
-  .journey .year { grid-column: 1 / -1; margin: 1rem 0 0; }
-  .journey .logo { grid-column: 1; }
-  .journey .body { grid-column: 2; }
+  .journey > span { grid-column: 1 / -1; margin: 1rem 0 0; }
+  .journey > img { grid-column: 1; }
+  .journey > div { grid-column: 2; }
 }
