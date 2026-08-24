@@ -29,7 +29,7 @@ My research interests include synthetic data, post-training, multimodality, inte
   <span class="year">2022 - 2024</span>
   <img class="logo" src="{{ '/assets/img/logos/imperial.png' | relative_url }}" alt="">
   <div class="body" markdown="1">
-MSc Computing (AI &amp; ML) at [Imperial College London](https://www.imperial.ac.uk/), where I worked with [Aldo Faisal](https://profiles.imperial.ac.uk/a.faisal) on federated reinforcement learning to predict treatments for [sepsis](https://www.nhs.uk/conditions/sepsis/) patients.
+MSc Computing (AI &amp; ML) at [Imperial College London](https://www.imperial.ac.uk/), where I worked with [Aldo Faisal](https://profiles.imperial.ac.uk/a.faisal) on federated reinforcement learning to predict treatments for [sepsis](https://www.who.int/news-room/fact-sheets/detail/sepsis) patients.
 
 After graduating, I joined the [Brain &amp; Behaviour Lab](https://faisallab.org/) for about a year to work on the next generation of the [AI Clinician](https://www.nature.com/articles/s41591-018-0213-5).
   </div>
