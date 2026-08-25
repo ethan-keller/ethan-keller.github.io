@@ -9,7 +9,7 @@ layout: default
     <p>
       <a href="https://www.linkedin.com/in/ethkeller/">linkedin</a>
       <a href="https://github.com/ethan-keller">github</a>
-      <a id="mail" href="#" target="_self" data-r="ZXRoYW4ua2VsbGVyMjAwMiNnbWFpbC5jb20=">email</a>
+      <a id="mail" href="#" data-r="ZXRoYW4ua2VsbGVyMjAwMiNnbWFpbC5jb20=">email</a>
       <span id="out"></span>
     </p>
   </div>

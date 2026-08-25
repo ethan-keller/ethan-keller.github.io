@@ -20,7 +20,6 @@ body {
 }
 
 a { color: var(--accent); }
-a[href^="http"]::after { content: " \2197"; font-size: 0.75em; }
 
 h2 {
   margin-top: 3rem;
