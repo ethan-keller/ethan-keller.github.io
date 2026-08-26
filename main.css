@@ -3,6 +3,7 @@
   --fg:     #1f1e1c;
   --muted:  #6b6862;
   --rule:   #e2dfd6;
+  --note:   #f8eed6;
   --accent: #1f5fa8;
 }
 
@@ -26,6 +27,15 @@ h2 {
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--rule);
   font-size: 1.25rem;
+}
+
+.wip {
+  margin: 0 0 2rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 0.25rem;
+  background: var(--note);
+  color: var(--muted);
+  font-size: 0.875rem;
 }
 
 .intro {
