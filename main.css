@@ -23,7 +23,7 @@ body {
 a { color: var(--accent); }
 
 h2 {
-  margin-top: 3rem;
+  margin-top: 2rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid var(--rule);
   font-size: 1.25rem;
