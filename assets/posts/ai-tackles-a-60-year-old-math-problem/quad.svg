@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 395" role="img" aria-label="Wetzel's 30 degree sector, area 0.2617…, next to the new quadrilateral cover, area 0.24633…, at the same scale" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect width="1000" height="395" fill="#fffefc"/>
+<path d="M40.0 191.3 L445.7 300.0 L446.6 296.5 L447.5 292.9 L448.4 289.3 L449.2 285.8 L450.0 282.2 L450.8 278.6 L451.6 275.0 L452.3 271.4 L453.0 267.8 L453.6 264.2 L454.2 260.6 L454.8 257.0 L455.4 253.4 L455.9 249.7 L456.4 246.1 L456.9 242.5 L457.3 238.8 L457.7 235.2 L458.1 231.6 L458.4 227.9 L458.7 224.2 L459.0 220.6 L459.2 216.9 L459.4 213.3 L459.6 209.6 L459.7 206.0 L459.9 202.3 L459.9 198.6 L460.0 195.0 L460.0 191.3 L460.0 187.6 L459.9 184.0 L459.9 180.3 L459.7 176.6 L459.6 173.0 L459.4 169.3 L459.2 165.7 L459.0 162.0 L458.7 158.3 L458.4 154.7 L458.1 151.0 L457.7 147.4 L457.3 143.8 L456.9 140.1 L456.4 136.5 L455.9 132.8 L455.4 129.2 L454.8 125.6 L454.2 122.0 L453.6 118.4 L453.0 114.8 L452.3 111.2 L451.6 107.6 L450.8 104.0 L450.0 100.4 L449.2 96.8 L448.4 93.2 L447.5 89.7 L446.6 86.1 L445.7 82.6Z" fill="#eceae4" stroke="#c9c4b8" stroke-width="2"/>
+<text x="250.0" y="346.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">Wetzel's sector</text>
+<text x="250.0" y="375.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">area 0.2617…</text>
+<path d="M608.6 300.0 L932.4 300.0 L800.4 178.0 L567.6 78.8Z" fill="#d6e2f0" stroke="#1f5fa8" stroke-width="2"/>
+<text x="750.0" y="346.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">The new quadrilateral</text>
+<text x="750.0" y="375.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">area 0.24633…</text>
+</svg>

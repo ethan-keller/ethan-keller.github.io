@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" role="img" aria-label="The convex bounds for Moser&#39;s worm over time: the upper bound fell from 0.2861 in 1974 to 0.2752… in 1992, 0.2709… in 2006 and 0.2618 in 2021; the lower bound rose from 0.2194… in 1973 to 0.2322… in 2013" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect width="1000" height="500" fill="#fffefc"/>
+<line x1="112" y1="350.0" x2="870.0" y2="350.0" stroke="#e2dfd6"/>
+<text x="100.0" y="356.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.22</text>
+<line x1="112" y1="270.0" x2="870.0" y2="270.0" stroke="#e2dfd6"/>
+<text x="100.0" y="276.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.24</text>
+<line x1="112" y1="190.0" x2="870.0" y2="190.0" stroke="#e2dfd6"/>
+<text x="100.0" y="196.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.26</text>
+<line x1="112" y1="110.0" x2="870.0" y2="110.0" stroke="#e2dfd6"/>
+<text x="100.0" y="116.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.28</text>
+<text x="112.0" y="440.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">1970</text>
+<text x="240.5" y="440.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">1980</text>
+<text x="368.9" y="440.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">1990</text>
+<text x="497.4" y="440.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">2000</text>
+<text x="625.9" y="440.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">2010</text>
+<text x="754.4" y="440.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">2020</text>
+<text x="491.0" y="486.0" font-size="19" fill="#1f1e1c" text-anchor="middle" font-weight="600">Year</text>
+<text x="26" y="220.0" font-size="19" fill="#1f1e1c" text-anchor="middle" font-weight="600" transform="rotate(-90 26 220.0)">Area</text>
+<path d="M163.4 85.6 L394.6 85.6 L394.6 129.0 L574.5 129.0 L574.5 146.4 L664.4 146.4 L664.4 146.4 L767.2 146.4 L767.2 182.8 L870.0 182.8 L870.0 301.0 L767.2 301.0 L767.2 301.0 L664.4 301.0 L664.4 352.2 L574.5 352.2 L574.5 352.2 L394.6 352.2 L394.6 352.2 L163.4 352.2" fill="#e3ebf5"/>
+<path d="M163.4 85.6 L394.6 85.6 L394.6 129.0 L574.5 129.0 L574.5 146.4 L767.2 146.4 L767.2 182.8 L870.0 182.8" fill="none" stroke="#1f5fa8" stroke-width="3" stroke-linejoin="round"/>
+<path d="M150.5 352.2 L664.4 352.2 L664.4 301.0 L870.0 301.0" fill="none" stroke="#1f5fa8" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="163.4" cy="85.6" r="5" fill="#1f5fa8"/>
+<text x="173.4" y="73.6" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="600">0.2861</text>
+<text x="173.4" y="49.6" font-size="19" fill="#6b6862" text-anchor="start" font-weight="400">Gerriets &amp; Poole, 1974</text>
+<circle cx="394.6" cy="129.0" r="5" fill="#1f5fa8"/>
+<text x="404.6" y="157.0" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="600">0.2752…</text>
+<text x="404.6" y="180.0" font-size="19" fill="#6b6862" text-anchor="start" font-weight="400">Norwood et al., 1992</text>
+<circle cx="574.5" cy="146.4" r="5" fill="#1f5fa8"/>
+<text x="584.5" y="134.4" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="600">0.2709…</text>
+<text x="584.5" y="110.4" font-size="19" fill="#6b6862" text-anchor="start" font-weight="400">Wang, 2006</text>
+<circle cx="767.2" cy="182.8" r="5" fill="#1f5fa8"/>
+<text x="757.2" y="210.8" font-size="21" fill="#1f1e1c" text-anchor="end" font-weight="600">0.2618</text>
+<text x="757.2" y="233.8" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">Panraksa &amp; Wichiramala, 2021</text>
+<circle cx="150.5" cy="352.2" r="5" fill="#1f5fa8"/>
+<text x="160.5" y="380.2" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="600">0.2194…</text>
+<text x="160.5" y="403.2" font-size="19" fill="#6b6862" text-anchor="start" font-weight="400">Wetzel, 1973</text>
+<circle cx="664.4" cy="301.0" r="5" fill="#1f5fa8"/>
+<text x="674.4" y="329.0" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="600">0.2322…</text>
+<text x="674.4" y="352.0" font-size="19" fill="#6b6862" text-anchor="start" font-weight="400">Khandhawit et al., 2013</text>
+<text x="279.0" y="111.6" font-size="19" fill="#1f5fa8" text-anchor="middle" font-weight="600">upper bound</text>
+<text x="433.2" y="378.2" font-size="19" fill="#1f5fa8" text-anchor="middle" font-weight="600">lower bound</text>
+</svg>

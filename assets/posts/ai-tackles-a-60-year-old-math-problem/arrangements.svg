@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-label="The same two worms, a segment and a vee, in three arrangements with their convex hulls shaded, from loose to tightest" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect width="1000" height="260" fill="#fffefc"/>
+<polygon points="30.0,230.0 300.0,230.0 332.7,70.7 199.7,94.2" fill="#eceae4" stroke="#c9c4b8" stroke-width="1.5" stroke-linejoin="round"/>
+<polyline points="30.0,230.0 300.0,230.0" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="30.0" cy="230.0" r="3.2" fill="#0072B2"/>
+<circle cx="300.0" cy="230.0" r="3.2" fill="#0072B2"/>
+<polyline points="332.7,70.7 286.5,197.6 199.7,94.2" fill="none" stroke="#D55E00" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="332.7" cy="70.7" r="3.2" fill="#D55E00"/>
+<circle cx="199.7" cy="94.2" r="3.2" fill="#D55E00"/>
+<polygon points="360.0,230.0 630.0,230.0 643.5,216.5 576.0,99.6" fill="#eceae4" stroke="#c9c4b8" stroke-width="1.5" stroke-linejoin="round"/>
+<polyline points="360.0,230.0 630.0,230.0" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="360.0" cy="230.0" r="3.2" fill="#0072B2"/>
+<circle cx="630.0" cy="230.0" r="3.2" fill="#0072B2"/>
+<polyline points="643.5,216.5 508.5,216.5 576.0,99.6" fill="none" stroke="#D55E00" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="643.5" cy="216.5" r="3.2" fill="#D55E00"/>
+<circle cx="576.0" cy="99.6" r="3.2" fill="#D55E00"/>
+<polygon points="690.0,230.0 960.0,230.0 825.0,113.1" fill="#eceae4" stroke="#c9c4b8" stroke-width="1.5" stroke-linejoin="round"/>
+<polyline points="690.0,230.0 960.0,230.0" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="690.0" cy="230.0" r="3.2" fill="#0072B2"/>
+<circle cx="960.0" cy="230.0" r="3.2" fill="#0072B2"/>
+<polyline points="892.5,230.0 757.5,230.0 825.0,113.1" fill="none" stroke="#D55E00" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="892.5" cy="230.0" r="3.2" fill="#D55E00"/>
+<circle cx="825.0" cy="113.1" r="3.2" fill="#D55E00"/>
+</svg>

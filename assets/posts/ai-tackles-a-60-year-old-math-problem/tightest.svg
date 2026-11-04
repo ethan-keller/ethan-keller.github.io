@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 455" role="img" aria-label="The four worms of the family, a segment, a vee, a splayed U and a crinkled zigzag, packed together as tightly as the numerical search could, with their shaded convex hull of area about 0.23944" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect width="1000" height="455" fill="#fffefc"/>
+<polygon points="74.8,381.0 167.1,386.5 481.1,405.0 837.9,426.0 867.8,427.8 925.2,381.0 817.5,143.3 677.2,47.7 534.6,126.6" fill="#eceae4" stroke="#d5d1c7" stroke-width="1.5" stroke-linejoin="round"/>
+<polyline points="74.8,381.0 925.2,381.0" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="74.8" cy="381.0" r="3.6" fill="#0072B2"/>
+<circle cx="925.2" cy="381.0" r="3.6" fill="#0072B2"/>
+<text x="51.8" y="397.2" font-size="21" fill="#1f1e1c" text-anchor="end" font-weight="700">L</text>
+<polyline points="867.8,427.8 443.3,402.7 677.2,47.7" fill="none" stroke="#D55E00" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="867.8" cy="427.8" r="3.6" fill="#D55E00"/>
+<circle cx="677.2" cy="47.7" r="3.6" fill="#D55E00"/>
+<text x="645.8" y="35.4" font-size="21" fill="#1f1e1c" text-anchor="end" font-weight="700">T</text>
+<polyline points="837.9,426.0 817.5,143.3 534.6,126.6 481.1,405.0" fill="none" stroke="#009E73" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="837.9" cy="426.0" r="3.6" fill="#009E73"/>
+<circle cx="481.1" cy="405.0" r="3.6" fill="#009E73"/>
+<text x="845.6" y="219.0" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="700">U</text>
+<polyline points="167.1,386.5 209.5,306.5 867.8,427.8 910.2,347.8" fill="none" stroke="#AA3377" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="167.1" cy="386.5" r="3.6" fill="#AA3377"/>
+<circle cx="910.2" cy="347.8" r="3.6" fill="#AA3377"/>
+<text x="937.4" y="343.2" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="700">C</text>
+</svg>

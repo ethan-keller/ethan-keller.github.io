@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" role="img" aria-label="Diagram in two zones. In a grey zone marked not trusted, a search produces certificates. In a blue zone marked checked by Lean, a check of the certificates and a proof that they imply the bounds together give the theorem 0.239 ≤ α ≤ 0.24633…" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<defs><marker id="head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#6b6862"/></marker></defs>
+<rect width="1000" height="280" fill="#fffefc"/>
+<rect x="400" y="14" width="586" height="252" rx="16" fill="#e3ebf5"/>
+<text x="693.0" y="248.0" font-size="19" fill="#1f5fa8" text-anchor="middle" font-weight="600">checked by Lean</text>
+<rect x="6" y="14" width="378" height="252" rx="16" fill="#eceae4"/>
+<text x="195.0" y="248.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="600">not trusted</text>
+<rect x="30" y="95.0" width="130" height="60" rx="10" fill="#fffefc" stroke="#c9c4b8" stroke-width="1.5"/>
+<text x="95.0" y="132.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">Search</text>
+<rect x="200" y="95.0" width="160" height="60" rx="10" fill="#fffefc" stroke="#c9c4b8" stroke-width="1.5"/>
+<text x="280.0" y="132.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">Certificates</text>
+<path d="M160 125 L196 125" stroke="#6b6862" stroke-width="2" fill="none" marker-end="url(#head)"/>
+<rect x="422" y="38" width="230" height="60" rx="10" fill="#fffefc" stroke="#c9c4b8" stroke-width="1.5"/>
+<text x="537.0" y="75.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">Certificate check</text>
+<rect x="422" y="152" width="230" height="60" rx="10" fill="#fffefc" stroke="#c9c4b8" stroke-width="1.5"/>
+<text x="537.0" y="189.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">Implies the bounds</text>
+<text x="537.0" y="134.0" font-size="26" fill="#6b6862" text-anchor="middle" font-weight="600">+</text>
+<path d="M360 125 L418 68.0" stroke="#6b6862" stroke-width="2" fill="none" marker-end="url(#head)"/>
+<path d="M656 68.0 H668 V182.0 H656 M668 125 H676" stroke="#6b6862" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<rect x="692" y="95.0" width="286" height="60" rx="10" fill="#fffefc" stroke="#c9c4b8" stroke-width="1.5"/>
+<text x="835.0" y="132.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">0.239 ≤ α ≤ 0.24633…</text>
+<path d="M676 125 L688 125" stroke="#6b6862" stroke-width="2" fill="none" marker-end="url(#head)"/>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 470" role="img" aria-label="The best certified lower bound from 20 to 26 August 2026: it starts at the earlier bound, then 0.2365 on 20 August, 0.2370 on 21 August, and 0.2385 and 0.2390 on 25 August" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect width="1000" height="470" fill="#fffefc"/>
+<line x1="114" y1="380.0" x2="960" y2="380.0" stroke="#e2dfd6" stroke-width="1"/>
+<text x="102.0" y="387.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.230</text>
+<line x1="114" y1="310.0" x2="960" y2="310.0" stroke="#e2dfd6" stroke-width="1"/>
+<text x="102.0" y="317.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.232</text>
+<line x1="114" y1="240.0" x2="960" y2="240.0" stroke="#e2dfd6" stroke-width="1"/>
+<text x="102.0" y="247.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.234</text>
+<line x1="114" y1="170.0" x2="960" y2="170.0" stroke="#e2dfd6" stroke-width="1"/>
+<text x="102.0" y="177.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.236</text>
+<line x1="114" y1="100.0" x2="960" y2="100.0" stroke="#e2dfd6" stroke-width="1"/>
+<text x="102.0" y="107.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.238</text>
+<line x1="114" y1="30.0" x2="960" y2="30.0" stroke="#e2dfd6" stroke-width="1"/>
+<text x="102.0" y="37.0" font-size="19" fill="#6b6862" text-anchor="end" font-weight="400">0.240</text>
+<text x="114.0" y="414.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">20 Aug</text>
+<text x="244.2" y="414.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">21 Aug</text>
+<text x="374.3" y="414.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">22 Aug</text>
+<text x="504.5" y="414.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">23 Aug</text>
+<text x="634.6" y="414.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">24 Aug</text>
+<text x="764.8" y="414.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">25 Aug</text>
+<text x="894.9" y="414.0" font-size="19" fill="#6b6862" text-anchor="middle" font-weight="400">26 Aug</text>
+<text x="537.0" y="456.0" font-size="19" fill="#1f1e1c" text-anchor="middle" font-weight="600">Date</text>
+<text x="26" y="205.0" font-size="19" fill="#1f1e1c" text-anchor="middle" font-weight="600" transform="rotate(-90 26 205.0)">Lower bound</text>
+<path d="M114.0 301.6 L174.6 301.6 L174.6 152.5 L347.2 152.5 L347.2 135.0 L808.2 135.0 L808.2 82.5 L846.1 82.5 L846.1 65.0 L960.0 65.0" fill="none" stroke="#1f5fa8" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="114.0" cy="301.6" r="5" fill="#1f5fa8" stroke="#fffefc" stroke-width="2"/>
+<text x="124.0" y="329.6" font-size="21" fill="#1f1e1c" text-anchor="start" font-weight="600">0.2322…</text>
+<text x="124.0" y="352.6" font-size="19" fill="#6b6862" text-anchor="start" font-weight="400">previous best</text>
+<circle cx="174.6" cy="152.5" r="5" fill="#1f5fa8" stroke="#fffefc" stroke-width="2"/>
+<text x="174.6" y="134.5" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">0.2365</text>
+<circle cx="347.2" cy="135.0" r="5" fill="#1f5fa8" stroke="#fffefc" stroke-width="2"/>
+<text x="347.2" y="117.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">0.2370</text>
+<circle cx="808.2" cy="82.5" r="5" fill="#1f5fa8" stroke="#fffefc" stroke-width="2"/>
+<text x="796.2" y="89.5" font-size="21" fill="#1f1e1c" text-anchor="end" font-weight="600">0.2385</text>
+<circle cx="846.1" cy="65.0" r="5" fill="#1f5fa8" stroke="#fffefc" stroke-width="2"/>
+<text x="846.1" y="47.0" font-size="21" fill="#1f1e1c" text-anchor="middle" font-weight="600">0.2390</text>
+</svg>

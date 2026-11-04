@@ -9,6 +9,7 @@ layout: default
     <p>
       <a href="https://www.linkedin.com/in/ethkeller/">linkedin</a>
       <a href="https://github.com/ethan-keller">github</a>
+      <a href="/blog/">blog</a>
       <a id="mail" href="#" data-r="ZXRoYW4ua2VsbGVyMjAwMiNnbWFpbC5jb20=">email</a>
       <span id="out"></span>
     </p>
@@ -42,6 +43,17 @@ BSc Computer Science and Engineering at the [Delft University of Technology](htt
 Along the way I completed 2 internships. First at [JetBrains Research](https://www.jetbrains.com/research/) (2021) researching lightweight messaging systems for robotics and IoT devices, and later at [Amazon](https://read.amazon.com/) (2022) building web-based reading products in the Kindle team.
   </div>
 </div>
+
+## Blog
+
+<table class="postlist">
+{%- for post in site.posts limit: 3 %}
+  <tr>
+    <td class="date">{{ post.date | date: "%b %-d, %Y" }}</td>
+    <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+  </tr>
+{%- endfor %}
+</table>
 
 ## Languages
 

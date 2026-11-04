@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 832" role="img" aria-label="The titles of all 149 research attempts, with Counterbody column generation highlighted as the only one that claimed a better lower bound" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<rect width="1020" height="832" fill="#fffefc"/>
+<rect x="20.0" y="14.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="28.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Support stability</text>
+<rect x="20.0" y="35.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="49.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Dual witness measure</text>
+<rect x="20.0" y="56.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="70.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Honest SOS ladder</text>
+<rect x="20.0" y="77.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="91.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Adversarial oracle game</text>
+<rect x="20.0" y="98.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="112.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Bang-bang turning</text>
+<rect x="20.0" y="119.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="133.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Crofton excess</text>
+<rect x="20.0" y="140.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="154.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Symmetry or counterexample</text>
+<rect x="20.0" y="161.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="175.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Moment-covariance relaxation</text>
+<rect x="20.0" y="182.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="196.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Explicit Marstrand</text>
+<rect x="20.0" y="203.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="217.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Right-V witness enclosure</text>
+<rect x="20.0" y="224.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="238.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Exact two-segment worms</text>
+<rect x="20.0" y="245.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="259.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Monotone-turning worms</text>
+<rect x="20.0" y="266.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="280.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Curvature-bounded ladder</text>
+<rect x="20.0" y="287.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="301.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Sector shaving</text>
+<rect x="20.0" y="308.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="322.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Forest duality transfer</text>
+<rect x="20.0" y="329.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="343.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Quadratic Crofton stability</text>
+<rect x="20.0" y="350.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="364.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Placement-space topology</text>
+<rect x="20.0" y="371.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="385.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Translation-only open arcs</text>
+<rect x="20.0" y="392.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="406.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Centrally symmetric worms</text>
+<rect x="20.0" y="413.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="427.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Exact three-segment worms</text>
+<rect x="20.0" y="434.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="448.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Asymmetry transfer</text>
+<rect x="20.0" y="455.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="469.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Curvature Gamma limit</text>
+<rect x="20.0" y="476.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="490.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Quantitative witness extracti…</text>
+<rect x="20.0" y="497.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="511.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Marstrand amplification</text>
+<rect x="20.0" y="518.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="532.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Completion-space waist</text>
+<rect x="20.0" y="539.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="553.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Repair the 2018 cover</text>
+<rect x="20.0" y="560.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="574.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Chiral double cover</text>
+<rect x="20.0" y="581.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="595.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Centrally symmetric closed wo…</text>
+<rect x="20.0" y="602.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="616.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Exact four-segment worms</text>
+<rect x="20.0" y="623.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="637.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Placement-fiber cobordism</text>
+<rect x="20.0" y="644.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="658.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Support-measure transport dual</text>
+<rect x="20.0" y="665.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="679.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Local-to-global placement glu…</text>
+<rect x="20.0" y="686.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="700.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Crofton orientation-class exa…</text>
+<rect x="20.0" y="707.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="721.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Z-broadworm quartet</text>
+<rect x="20.0" y="728.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="742.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Covariogram envelope</text>
+<rect x="20.0" y="749.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="763.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Translation-only Moser covers</text>
+<rect x="20.0" y="770.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="784.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Triple-correlation envelope</text>
+<rect x="20.0" y="791.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="26.0" y="805.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Exact Z_3-motion open arcs</text>
+<rect x="265.0" y="14.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="28.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Ordered rough-path signature…</text>
+<rect x="265.0" y="35.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="49.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Exact Z_4-motion open arcs</text>
+<rect x="265.0" y="56.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="70.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Global U-width completion</text>
+<rect x="265.0" y="77.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="91.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Rotational transport obstacle</text>
+<rect x="265.0" y="98.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="112.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Placement viability kernel</text>
+<rect x="265.0" y="119.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="133.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Bispectral containment dual</text>
+<rect x="265.0" y="140.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="154.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Curvature microstructure</text>
+<rect x="265.0" y="161.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="175.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Lorentzian support spacetime</text>
+<rect x="265.0" y="182.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="196.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Selector rate-distortion</text>
+<rect x="265.0" y="203.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="217.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Calibrated turning control</text>
+<rect x="265.0" y="224.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="238.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">BV-turn optimal carrier</text>
+<rect x="265.0" y="245.0" width="239" height="18" rx="3" fill="#d6e2f0" stroke="#1f5fa8" stroke-width="1.5"/>
+<text x="271.0" y="259.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="600">Counterbody column generation</text>
+<rect x="265.0" y="266.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="280.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Finite-circuit sector shave</text>
+<rect x="265.0" y="287.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="301.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Whole-block occupation</text>
+<rect x="265.0" y="308.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="322.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Feasible-phase stability flow</text>
+<rect x="265.0" y="329.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="343.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Tangent-word rearrangement</text>
+<rect x="265.0" y="350.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="364.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Support-billiard extremals</text>
+<rect x="265.0" y="371.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="385.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Wulff phase-crystal isoperime…</text>
+<rect x="265.0" y="392.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="406.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Symplectic billiard capacity</text>
+<rect x="265.0" y="413.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="427.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Nonsmooth third-order active-…</text>
+<rect x="265.0" y="434.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="448.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Dyadic chord-defect stopping…</text>
+<rect x="265.0" y="455.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="469.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Active-phase Hamiltonian flow…</text>
+<rect x="265.0" y="476.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="490.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Multiblock configuration volu…</text>
+<rect x="265.0" y="497.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="511.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Phase-material torus flow</text>
+<rect x="265.0" y="518.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="532.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Dyadic phase-body synthesis</text>
+<rect x="265.0" y="539.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="553.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Collar-to-area stability</text>
+<rect x="265.0" y="560.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="574.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Upper-bound source dossier</text>
+<rect x="265.0" y="581.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="595.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Oriented curvature simplex</text>
+<rect x="265.0" y="602.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="616.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Punctured-sector clearance</text>
+<rect x="265.0" y="623.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="637.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Convex-Wolff contact wall cro…</text>
+<rect x="265.0" y="644.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="658.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Ordered Minkowski-billiard tr…</text>
+<rect x="265.0" y="665.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="679.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Ordered variation proxy search</text>
+<rect x="265.0" y="686.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="700.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Semialgebraic contact-wall re…</text>
+<rect x="265.0" y="707.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="721.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Green-kernel curvature-charge…</text>
+<rect x="265.0" y="728.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="742.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Phase-action occupation measu…</text>
+<rect x="265.0" y="749.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="763.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Clean A021 wall comparison</text>
+<rect x="265.0" y="770.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="784.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Polyhedral wall transport atl…</text>
+<rect x="265.0" y="791.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="271.0" y="805.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Material-time contact-tour ba…</text>
+<rect x="510.0" y="14.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="28.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Semi-infinite epigraph KKT jo…</text>
+<rect x="510.0" y="35.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="49.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Equivariant phase-orbit proxy</text>
+<rect x="510.0" y="56.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="70.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Shortest-generator order gauge</text>
+<rect x="510.0" y="77.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="91.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Generator-conditioned marting…</text>
+<rect x="510.0" y="98.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="112.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Angular support-net semigroup</text>
+<rect x="510.0" y="119.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="133.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Epsilon-active action-flow pr…</text>
+<rect x="510.0" y="140.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="154.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Four-vertex branchwise-statio…</text>
+<rect x="510.0" y="161.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="175.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Stationary contact sparsifica…</text>
+<rect x="510.0" y="182.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="196.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Exceptional-leaf profile deco…</text>
+<rect x="510.0" y="203.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="217.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Central-symmetral exposed-fac…</text>
+<rect x="510.0" y="224.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="238.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Joint Noether occupation law</text>
+<rect x="510.0" y="245.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="259.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Triangle-tail occupation dual</text>
+<rect x="510.0" y="266.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="280.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Single-circuit generator-flow…</text>
+<rect x="510.0" y="287.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="301.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Contact-incidence residual fl…</text>
+<rect x="510.0" y="308.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="322.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Sweeping-process contact tran…</text>
+<rect x="510.0" y="329.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="343.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Cut-moment occupation law</text>
+<rect x="510.0" y="350.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="364.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Adaptive inactive-chord cocha…</text>
+<rect x="510.0" y="371.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="385.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Tail-billiard contact complex…</text>
+<rect x="510.0" y="392.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="406.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Unforced 034 sweeping segment</text>
+<rect x="510.0" y="413.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="427.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Source-dependent two-atom tra…</text>
+<rect x="510.0" y="434.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="448.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">New triangle-functional sourc…</text>
+<rect x="510.0" y="455.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="469.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Phase-diameter stability</text>
+<rect x="510.0" y="476.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="490.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Kinetic phase-tail energy</text>
+<rect x="510.0" y="497.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="511.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Finite-direction BV rigidity</text>
+<rect x="510.0" y="518.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="532.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Body-sourced active residual…</text>
+<rect x="510.0" y="539.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="553.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Phase-material collision rigi…</text>
+<rect x="510.0" y="560.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="574.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Equal-intercept Clarke law at…</text>
+<rect x="510.0" y="581.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="595.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Prestress contact rigidity</text>
+<rect x="510.0" y="602.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="616.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Chebyshev phase-weight non-ev…</text>
+<rect x="510.0" y="623.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="637.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Tropical reachable Green-stat…</text>
+<rect x="510.0" y="644.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="658.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Support-wall material-current…</text>
+<rect x="510.0" y="665.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="679.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Reciprocal prestress source s…</text>
+<rect x="510.0" y="686.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="700.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Effective phase-collapse stab…</text>
+<rect x="510.0" y="707.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="721.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Phase-profile error-bound dic…</text>
+<rect x="510.0" y="728.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="742.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Reaction-weighted Bellman cal…</text>
+<rect x="510.0" y="749.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="763.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Phase-material Monge gap</text>
+<rect x="510.0" y="770.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="784.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Conservative jet subsolution</text>
+<rect x="510.0" y="791.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="516.0" y="805.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Support-contact braid</text>
+<rect x="755.0" y="14.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="28.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Holder zero-stratum cleanup</text>
+<rect x="755.0" y="35.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="49.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Double-tangent common-contact…</text>
+<rect x="755.0" y="56.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="70.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Additive selector/short-word…</text>
+<rect x="755.0" y="77.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="91.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Quantitative two-phase contac…</text>
+<rect x="755.0" y="98.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="112.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Reachable Green chart automat…</text>
+<rect x="755.0" y="119.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="133.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Fourier-Monge covariance</text>
+<rect x="755.0" y="140.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="154.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Phase/material incidence expa…</text>
+<rect x="755.0" y="161.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="175.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Mixed-resolution order/suppor…</text>
+<rect x="755.0" y="182.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="196.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Twist crossing for phase/mate…</text>
+<rect x="755.0" y="203.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="217.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Two-orientation face-sign fru…</text>
+<rect x="755.0" y="224.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="238.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Safe-side stopping proxy</text>
+<rect x="755.0" y="245.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="259.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Two-phase complete-law coupli…</text>
+<rect x="755.0" y="266.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="280.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Off-fan prestress pricing</text>
+<rect x="755.0" y="287.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="301.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Basis-exchange wall transport…</text>
+<rect x="755.0" y="308.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="322.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Circular-arc common-phase ner…</text>
+<rect x="755.0" y="329.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="343.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Residual vector-measure packe…</text>
+<rect x="755.0" y="350.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="364.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Countermeasure-adjoint source…</text>
+<rect x="755.0" y="371.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="385.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Parametric wall-stress sheaf</text>
+<rect x="755.0" y="392.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="406.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Punctured-sector Maxwell swit…</text>
+<rect x="755.0" y="413.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="427.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Nonlinear augmented-phase end…</text>
+<rect x="755.0" y="434.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="448.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Physical corona residual cone</text>
+<rect x="755.0" y="455.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="469.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Circuit normal-flow intersect…</text>
+<rect x="755.0" y="476.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="490.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Response-one Maxwell wall hom…</text>
+<rect x="755.0" y="497.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="511.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Two-sided open-star stress en…</text>
+<rect x="755.0" y="518.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="532.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">All-chord gap factorization</text>
+<rect x="755.0" y="539.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="553.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Padded basin positivity</text>
+<rect x="755.0" y="560.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="574.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Material-time Beckmann circuit</text>
+<rect x="755.0" y="581.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="595.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Interior N activity atlas</text>
+<rect x="755.0" y="602.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="616.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Hull-geodesic material current</text>
+<rect x="755.0" y="623.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="637.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Four-extreme hull current atl…</text>
+<rect x="755.0" y="644.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="658.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Inverse multiphase active-sou…</text>
+<rect x="755.0" y="665.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="679.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Support-contact braid cycle</text>
+<rect x="755.0" y="686.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="700.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Circuit-profile frame stabili…</text>
+<rect x="755.0" y="707.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="721.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Stationary contact-path calib…</text>
+<rect x="755.0" y="728.0" width="239" height="18" rx="3" fill="#eceae4"/>
+<text x="761.0" y="742.0" font-size="13" fill="#1f1e1c" text-anchor="start" font-weight="400">Profile-null-fiber join</text>
+</svg>

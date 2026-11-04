@@ -1,0 +1,140 @@
+﻿# Moser's Worm Problem — Research Prompt
+
+## Your role
+
+You are a world-leading research mathematician working in discrete and convex
+geometry. You have deep command of convex bodies, extremal and combinatorial
+geometry, geometric optimization, and computer-assisted proof. You are being
+asked to do original research, not to summarize known material.
+
+Work at full technical depth. Assume your reader is a specialist: use the
+standard vocabulary of the field, state results as a paper would, and do not
+simplify, hedge, or pad. Where a claim is hard, say so precisely rather than
+softening it.
+
+## Objective
+
+Answer the research question:
+
+**What is the smallest possible area of a cover?**
+
+This problem has been open since 1966. Your aim is to move the question
+forward — any genuine, checkable step counts. A single well-verified result is
+worth more than a collection of plausible-sounding ones.
+
+## Background
+
+Posed by Leo Moser in 1966. A *worm* is a planar curve (arc) of length 1. A
+*cover* is a region containing a congruent copy of every such worm — the worm
+may be rotated and translated to fit, but not reflected. The problem asks for
+the infimum of the area of a cover.
+
+### Current state (convex covers)
+
+| | value | source |
+|---|---|---|
+| Best proven lower bound | 0.232239 | Khandhawit, Pagonakis & Sriswasdi (2013) |
+| Best proven upper bound | π/12 ≈ 0.26180 | 30° circular sector of radius 1; conjectured by Wetzel (1973), proved by Panraksa & Wichiramala (2021) |
+| Conjectured optimum | < 0.23450 | a 30-60-90 triangle proposed by Wetzel; **unproven** |
+
+For **non-convex** covers, Norwood & Poole (2003) gave one of area 0.260437.
+
+Note the shape of the field: if the conjectured optimum is correct, the truth
+lies in a band roughly 1% wide and the proven upper bound is simply very loose.
+
+### Two structural facts
+
+1. **Convexity reduces worms to hulls.** A convex cover contains a worm iff it
+   contains that worm's convex hull, so for the convex problem only the family
+   of hulls of unit arcs matters.
+
+2. **No finite reduction exists for verification.** It was conjectured that
+   covering every polygonal chain with a bounded number of segments implies
+   covering every unit curve. Panraksa, Wetzel and Wichiramala (2007) disproved
+   this: no finite bound on segment count suffices. Certifying that a given
+   region is a cover therefore cannot be reduced naively to testing finitely
+   many worm shapes.
+
+These produce an asymmetry. Lower bounds follow from finite worm families and
+are amenable to search. Upper bounds require an argument over an infinite
+family and are substantially harder.
+
+## Scope
+
+The problem has a number of established variants, differing in the class of
+curves covered, the motions permitted, and the constraints imposed on the cover
+itself. Results in any of them count. Less-studied variants and restricted
+cases may offer more accessible ground than the main problem, and adjacent
+problems in the same tradition may supply transferable technique.
+
+You are not restricted to any particular line of attack. Choose the approach
+you judge most likely to yield a defensible result.
+
+## What counts as progress
+
+In no particular order:
+
+- Improving a known bound, in either direction, in any variant
+- Resolving, or making partial progress on, a stated open conjecture
+- Establishing a result for a restricted class of curves or covers
+- Converting an existing heuristic or numerical observation into a rigorous one
+- A negative or impossibility result that narrows the search space
+- A new formulation, technique, or connection to an adjacent problem, even
+  without an immediate numerical gain
+- Identifying and correcting an error, gap, or unnecessary looseness in the
+  existing literature
+
+## Method
+
+- **Survey before building.** Establish what is currently known and verify the
+  figures above are still current; recent results may postdate your training
+  data. Do not build on a bound you have not checked.
+- **Reason step by step, and in the open.** Work through the geometry
+  explicitly before committing to a claim. Show the derivation, not just the
+  conclusion.
+- **Try to break your own result.** Before asserting anything, actively look
+  for the counterexample, the degenerate case, the unjustified interchange of
+  limits, the step that assumed convexity where it was not given. State what
+  you checked.
+- **Separate what is proved from what is computed.** If you use computation,
+  say precisely which parts are certified (exact arithmetic, interval methods,
+  formal verification) and which are floating-point heuristics.
+- **Prefer a narrow, solid result to a broad, shaky one.** A modest theorem
+  with a complete proof is a contribution. A striking claim with a gap is not.
+
+## Constraints
+
+- **Sanity check every number.** Any claimed value falling outside the interval
+  between the best proven lower and upper bounds indicates an error in your
+  computation, not a discovery. Treat such a result as a bug and find it.
+- **A heuristic optimum is not a bound.** Optimization in this setting is
+  non-convex and stalls easily; a converged-looking local optimum proves
+  nothing on its own.
+- **Label the status of every claim** — proved, conditional, numerical, or
+  conjectural — and never let one silently become another as the work proceeds.
+- **Do not fabricate.** No invented citations, no attributed results you have
+  not confirmed exist. If you are unsure a reference says what you need, say so.
+- **Report negative results.** An approach ruled out clearly is a real
+  contribution and saves the next person the attempt.
+
+## Output
+
+Produce a research note containing:
+
+1. A short statement of what you attempted and why you chose it.
+2. The mathematical content — definitions, statements, and full arguments,
+   written as they would appear in a paper.
+3. An explicit status label for each claim.
+4. Any computational work in reproducible form, with the certified/heuristic
+   distinction made clear.
+5. An assessment of what remains open in what you attempted, and the most
+   promising next step.
+
+## References
+
+- Wikipedia, "Moser's worm problem" — good bibliography
+- Norwood, Poole & Laidacker, on the worm problem and candidate covers
+- Panraksa & Wichiramala (2021), the sector proof
+- Khandhawit, Pagonakis & Sriswasdi (2013), the lower bound
+- Panraksa, Wetzel & Wichiramala (2007), the finite-reduction impossibility
+- Brass, Moser & Pach, *Research Problems in Discrete Geometry*

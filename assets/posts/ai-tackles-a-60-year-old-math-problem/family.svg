@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 256" role="img" aria-label="The four unit arcs of the family, each with its convex hull shaded">
+  <polyline points="25.00,105.00 275.00,105.00" fill="none" stroke="#0072B2" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="25.00" cy="105.00" r="3.2" fill="#0072B2"/>
+  <circle cx="275.00" cy="105.00" r="3.2" fill="#0072B2"/>
+  <text x="150.00" y="210.00" font-family="system-ui, sans-serif" font-size="25" fill="#1f1e1c" text-anchor="middle" font-weight="600">L</text>
+  <text x="150.00" y="240.00" font-family="system-ui, sans-serif" font-size="23" fill="#6b6862" text-anchor="middle">segment</text>
+  <polygon points="387.50,159.13 512.50,159.13 450.00,50.87" fill="#eceae4" stroke="#d5d1c7" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="387.50,159.13 512.50,159.13 450.00,50.87" fill="none" stroke="#D55E00" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="387.50" cy="159.13" r="3.2" fill="#D55E00"/>
+  <circle cx="512.50" cy="159.13" r="3.2" fill="#D55E00"/>
+  <circle cx="450.00" cy="50.87" r="3.2" fill="#D55E00"/>
+  <text x="450.00" y="210.00" font-family="system-ui, sans-serif" font-size="25" fill="#1f1e1c" text-anchor="middle" font-weight="600">T</text>
+  <text x="450.00" y="240.00" font-family="system-ui, sans-serif" font-size="23" fill="#6b6862" text-anchor="middle">vee</text>
+  <polygon points="702.89,157.09 786.23,157.09 797.11,74.47 716.61,52.91" fill="#eceae4" stroke="#d5d1c7" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="702.89,157.09 786.23,157.09 797.11,74.47 716.61,52.91" fill="none" stroke="#009E73" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="702.89" cy="157.09" r="3.2" fill="#009E73"/>
+  <circle cx="786.23" cy="157.09" r="3.2" fill="#009E73"/>
+  <circle cx="797.11" cy="74.47" r="3.2" fill="#009E73"/>
+  <circle cx="716.61" cy="52.91" r="3.2" fill="#009E73"/>
+  <text x="750.00" y="210.00" font-family="system-ui, sans-serif" font-size="25" fill="#1f1e1c" text-anchor="middle" font-weight="600">U</text>
+  <text x="750.00" y="240.00" font-family="system-ui, sans-serif" font-size="23" fill="#6b6862" text-anchor="middle">splayed U</text>
+  <polygon points="942.61,117.49 1147.24,117.49 1157.39,92.51 952.76,92.51" fill="#eceae4" stroke="#d5d1c7" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="942.61,117.49 952.76,92.51 1147.24,117.49 1157.39,92.51" fill="none" stroke="#AA3377" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="942.61" cy="117.49" r="3.2" fill="#AA3377"/>
+  <circle cx="952.76" cy="92.51" r="3.2" fill="#AA3377"/>
+  <circle cx="1147.24" cy="117.49" r="3.2" fill="#AA3377"/>
+  <circle cx="1157.39" cy="92.51" r="3.2" fill="#AA3377"/>
+  <text x="1050.00" y="210.00" font-family="system-ui, sans-serif" font-size="25" fill="#1f1e1c" text-anchor="middle" font-weight="600">C</text>
+  <text x="1050.00" y="240.00" font-family="system-ui, sans-serif" font-size="23" fill="#6b6862" text-anchor="middle">crinkled</text>
+</svg>
