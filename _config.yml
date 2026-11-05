@@ -2,3 +2,6 @@ title: "Ethan Keller"
 description: "Personal website of Ethan Keller."
 url: "https://ethankeller.ai"
 image: "/assets/img/pp.png"
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
