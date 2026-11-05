@@ -4,6 +4,7 @@ title: "AI tackles a 60-year-old math problem"
 date: 2026-11-04
 permalink: /blog/ai-tackles-a-60-year-old-math-problem/
 image: /assets/posts/ai-tackles-a-60-year-old-math-problem/hero.jpg
+description: "How AI closed 75% of the gap on Moser's worm, an unsolved geometry problem from 1966."
 math: true
 ---
 
