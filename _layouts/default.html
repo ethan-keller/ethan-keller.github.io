@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} · {% endif %}Ethan Keller</title>
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <link rel="stylesheet" href="/main.css">
 </head>
 <body>
   {% if page.url != "/" %}<p class="path"><a href="/">ethankeller.ai</a> / {% if page.layout == "post" %}<a href="/blog/">blog</a>{% else %}blog{% endif %}</p>{% endif %}
   {{ content }}
-  <footer>© {{ 'now' | date: "%Y" }} Ethan Keller</footer>
+  <footer>© {{ 'now' | date: "%Y" }} {{ site.title }}</footer>
 </body>
 </html>
