@@ -59,7 +59,7 @@ a classic open problem in discrete geometry. We finished third!
 
 <figure class="narrow">
   <img src="/assets/posts/ai-tackles-a-60-year-old-math-problem/wiskunde-b-dag.jpg">
-  <figcaption>Award ceremony of Wiskunde B-dag 2018-2019. From left to right: Thomas Maas, Arnaud Verstraeten, Pieter Markey, me, Ann-Sophie Vergauwe, Lieve Bleyenbergh.</figcaption>
+  <figcaption>Award ceremony of Wiskunde B-dag 2018-2019. From left to right: Thomas Maas, Arnaud Verstraeten, Pieter Markey, me, Ann-Sofie Vergauwe, Lieve Bleyenbergh.</figcaption>
 </figure>
 
 ## Leo Moser's worm
